@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roadarloceo
-- 👀 I’m interested in making and build useful and efficient stuff
+- 👀 I’m interested in making and building useful and efficient stuff
 - 🌱 I’m currently learning full-stack engineering
 - 📫 How to reach me: ceo@roadarlo.com
 
