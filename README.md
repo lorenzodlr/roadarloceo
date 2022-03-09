@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roadarloceo
+- 👋 Hi, I’m @lorenzodlr
 - 👀 I’m interested in making and building useful and efficient stuff
 - 🌱 I’m currently learning full-stack development
 - 📫 How to reach me: lorenzodlr@lorenzodesign.io
